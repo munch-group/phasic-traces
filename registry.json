@@ -225,7 +225,8 @@
         }
       },
       "checksum": "sha256:6d83554a5edc7968283143b0523415009927546d7e8cde0e260ced464a037046",
-      "license": "MIT"
+      "license": "MIT",
+      "graph_hash": "1f4388e29034cf900b51c7e9a13a4c5fbec610bfa3a7d7e14b46183326d6aa59"
     }
   },
   "collections": {
