@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "updated": "2025-10-21T12:00:00Z",
+  "traces": {},
+  "collections": {},
+  "pinning_services": {
+    "pinata": {
+      "api_url": "https://api.pinata.cloud",
+      "gateway": "https://gateway.pinata.cloud"
+    },
+    "web3storage": {
+      "api_url": "https://api.web3.storage",
+      "gateway": "https://w3s.link"
+    }
+  }
+}
