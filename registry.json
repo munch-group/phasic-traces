@@ -1,8 +1,251 @@
 {
   "version": "1.0.0",
-  "updated": "2025-10-21T12:00:00Z",
-  "traces": {},
-  "collections": {},
+  "updated": "2025-10-21T21:26:41Z",
+  "traces": {
+    "coalescent_n10_theta1": {
+      "cid": "bafybei889f7476086ab740cdc46f1e786849491f141651bf96763d",
+      "description": "Standard Kingman coalescent for n=10 haploid samples with theta parameter",
+      "metadata": {
+        "model_type": "coalescent",
+        "domain": "population-genetics",
+        "variant": "kingman",
+        "param_length": 1,
+        "vertices": 10,
+        "description": "Standard Kingman coalescent for n=10 haploid samples with theta parameter",
+        "parameters": [
+          {
+            "name": "theta",
+            "description": "Scaled mutation rate (4*N_e*mu)",
+            "domain": "[0, \u221e)"
+          }
+        ],
+        "created": "2025-10-21",
+        "author": "Kasper Munch <kaspermunch@birc.au.dk>",
+        "citation": {
+          "text": "R\u00f8ikjer, Hobolth & Munch (2022)",
+          "doi": "10.1007/s11222-022-10155-6",
+          "url": "https://doi.org/10.1007/s11222-022-10155-6"
+        },
+        "tags": [
+          "coalescent",
+          "kingman",
+          "population-genetics",
+          "basic"
+        ],
+        "license": "MIT"
+      },
+      "files": {
+        "trace.json.gz": {
+          "cid": "bafybei76984a2c7ad3e5dc655b5d6092f934e829845ff09ce8c47b",
+          "size_bytes": 703
+        },
+        "metadata.json": {
+          "cid": "bafybei2f893d4a023105d637ef36ebcd105b5cb0e5c9f9f06338c5",
+          "size_bytes": 727
+        }
+      },
+      "checksum": "sha256:76984a2c7ad3e5dc655b5d6092f934e829845ff09ce8c47bee8e0d842bd29683",
+      "license": "MIT",
+      "note": "MOCK CID - Replace with actual IPFS CID when published"
+    },
+    "coalescent_n15_theta1": {
+      "cid": "bafybei777f99006ccc19a26eaf8d975acd24ab343f4848c6f814ad",
+      "description": "Standard Kingman coalescent for n=15 haploid samples with theta parameter",
+      "metadata": {
+        "model_type": "coalescent",
+        "domain": "population-genetics",
+        "variant": "kingman",
+        "param_length": 1,
+        "vertices": 15,
+        "description": "Standard Kingman coalescent for n=15 haploid samples with theta parameter",
+        "parameters": [
+          {
+            "name": "theta",
+            "description": "Scaled mutation rate (4*N_e*mu)",
+            "domain": "[0, \u221e)"
+          }
+        ],
+        "created": "2025-10-21",
+        "author": "Kasper Munch <kaspermunch@birc.au.dk>",
+        "citation": {
+          "text": "R\u00f8ikjer, Hobolth & Munch (2022)",
+          "doi": "10.1007/s11222-022-10155-6",
+          "url": "https://doi.org/10.1007/s11222-022-10155-6"
+        },
+        "tags": [
+          "coalescent",
+          "kingman",
+          "population-genetics",
+          "basic"
+        ],
+        "license": "MIT"
+      },
+      "files": {
+        "trace.json.gz": {
+          "cid": "bafybei5a9bed12b0890e134c9f0880f6b6fcaa9ba14b05017fa982",
+          "size_bytes": 885
+        },
+        "metadata.json": {
+          "cid": "bafybeib68bf0aee7a0fe8c4d26815f0ba97042d4598c1e3c702087",
+          "size_bytes": 727
+        }
+      },
+      "checksum": "sha256:5a9bed12b0890e134c9f0880f6b6fcaa9ba14b05017fa982c383335b6bfa3dba",
+      "license": "MIT",
+      "note": "MOCK CID - Replace with actual IPFS CID when published"
+    },
+    "coalescent_n20_theta1": {
+      "cid": "bafybeif973e10f0a6288e49c1236df141901488e7ba46fd106bdb8",
+      "description": "Standard Kingman coalescent for n=20 haploid samples with theta parameter",
+      "metadata": {
+        "model_type": "coalescent",
+        "domain": "population-genetics",
+        "variant": "kingman",
+        "param_length": 1,
+        "vertices": 20,
+        "description": "Standard Kingman coalescent for n=20 haploid samples with theta parameter",
+        "parameters": [
+          {
+            "name": "theta",
+            "description": "Scaled mutation rate (4*N_e*mu)",
+            "domain": "[0, \u221e)"
+          }
+        ],
+        "created": "2025-10-21",
+        "author": "Kasper Munch <kaspermunch@birc.au.dk>",
+        "citation": {
+          "text": "R\u00f8ikjer, Hobolth & Munch (2022)",
+          "doi": "10.1007/s11222-022-10155-6",
+          "url": "https://doi.org/10.1007/s11222-022-10155-6"
+        },
+        "tags": [
+          "coalescent",
+          "kingman",
+          "population-genetics",
+          "basic"
+        ],
+        "license": "MIT"
+      },
+      "files": {
+        "trace.json.gz": {
+          "cid": "bafybei91be70e730d1df1a6f3eaf411f3c75dfa37a7d0cc3f173f7",
+          "size_bytes": 1065
+        },
+        "metadata.json": {
+          "cid": "bafybeid613285a8a2ea25205c009e721af9e48808f5b05e9fdb626",
+          "size_bytes": 727
+        }
+      },
+      "checksum": "sha256:91be70e730d1df1a6f3eaf411f3c75dfa37a7d0cc3f173f793c90811fae69800",
+      "license": "MIT",
+      "note": "MOCK CID - Replace with actual IPFS CID when published"
+    },
+    "coalescent_n3_theta1": {
+      "cid": "bafybeif3275b66e197091630176b81421257177f21f40c11e5db40",
+      "description": "Standard Kingman coalescent for n=3 haploid samples with theta parameter",
+      "metadata": {
+        "model_type": "coalescent",
+        "domain": "population-genetics",
+        "variant": "kingman",
+        "param_length": 1,
+        "vertices": 3,
+        "description": "Standard Kingman coalescent for n=3 haploid samples with theta parameter",
+        "parameters": [
+          {
+            "name": "theta",
+            "description": "Scaled mutation rate (4*N_e*mu)",
+            "domain": "[0, \u221e)"
+          }
+        ],
+        "created": "2025-10-21",
+        "author": "Kasper Munch <kaspermunch@birc.au.dk>",
+        "citation": {
+          "text": "R\u00f8ikjer, Hobolth & Munch (2022)",
+          "doi": "10.1007/s11222-022-10155-6",
+          "url": "https://doi.org/10.1007/s11222-022-10155-6"
+        },
+        "tags": [
+          "coalescent",
+          "kingman",
+          "population-genetics",
+          "basic"
+        ],
+        "license": "MIT"
+      },
+      "files": {
+        "trace.json.gz": {
+          "cid": "bafybeicb5e66c397a5f46dbd688063b77c6b0233e19c244508f943",
+          "size_bytes": 445
+        },
+        "metadata.json": {
+          "cid": "bafybei9efce7149b2ce7713e6cfc33b177c4ba3fa5d884b60c7eaf",
+          "size_bytes": 725
+        }
+      },
+      "checksum": "sha256:cb5e66c397a5f46dbd688063b77c6b0233e19c244508f94333012054a1025da0",
+      "license": "MIT",
+      "note": "MOCK CID - Replace with actual IPFS CID when published"
+    },
+    "coalescent_n5_theta1": {
+      "cid": "bafybei47e6f433a410cd3e514040600f47fbc1648438fa8050a950",
+      "description": "Standard Kingman coalescent for n=5 haploid samples with theta parameter",
+      "metadata": {
+        "model_type": "coalescent",
+        "domain": "population-genetics",
+        "variant": "kingman",
+        "param_length": 1,
+        "vertices": 5,
+        "description": "Standard Kingman coalescent for n=5 haploid samples with theta parameter",
+        "parameters": [
+          {
+            "name": "theta",
+            "description": "Scaled mutation rate (4*N_e*mu)",
+            "domain": "[0, \u221e)"
+          }
+        ],
+        "created": "2025-10-21",
+        "author": "Kasper Munch <kaspermunch@birc.au.dk>",
+        "citation": {
+          "text": "R\u00f8ikjer, Hobolth & Munch (2022)",
+          "doi": "10.1007/s11222-022-10155-6",
+          "url": "https://doi.org/10.1007/s11222-022-10155-6"
+        },
+        "tags": [
+          "coalescent",
+          "kingman",
+          "population-genetics",
+          "basic"
+        ],
+        "license": "MIT"
+      },
+      "files": {
+        "trace.json.gz": {
+          "cid": "bafybei6d83554a5edc7968283143b0523415009927546d7e8cde0e",
+          "size_bytes": 516
+        },
+        "metadata.json": {
+          "cid": "bafybeiaf084659ace3039889513a8216c1427a67e7d14da54ef0c0",
+          "size_bytes": 725
+        }
+      },
+      "checksum": "sha256:6d83554a5edc7968283143b0523415009927546d7e8cde0e260ced464a037046",
+      "license": "MIT",
+      "note": "MOCK CID - Replace with actual IPFS CID when published"
+    }
+  },
+  "collections": {
+    "coalescent_basic": {
+      "description": "Basic Kingman coalescent models (n=3 to n=20)",
+      "cid": "bafybei000000000000000000000000000000000000000000000000",
+      "traces": [
+        "coalescent_n10_theta1",
+        "coalescent_n15_theta1",
+        "coalescent_n20_theta1",
+        "coalescent_n3_theta1",
+        "coalescent_n5_theta1"
+      ]
+    }
+  },
   "pinning_services": {
     "pinata": {
       "api_url": "https://api.pinata.cloud",
