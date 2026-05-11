@@ -280,6 +280,25 @@
           "population-genetics"
         ]
       }
+    },
+    "new_id_different_from_existing": {
+      "graph_hash": "29dc136099b6cf8de1d9180a234a2358b63c5ddca6649889f9ed6a25d914418c",
+      "format_revision": 2,
+      "artifacts": {
+        "parent": {
+          "cid_or_path": "artifacts/29dc136099b6cf8de1d9180a234a2358b63c5ddca6649889f9ed6a25d914418c.bin",
+          "sha256": "fea5ccd30f04cd981cd3d9e2f78e0e78233c76174de63836fd697775af56080e",
+          "size_bytes": 2304
+        },
+        "scc": []
+      },
+      "metadata": {
+        "description": "duplicate publish attempt",
+        "author": "Kasper Munch <kaspermunch@birc.au.dk>",
+        "license": "MIT",
+        "vertices": 3,
+        "param_length": 1
+      }
     }
   }
 }
