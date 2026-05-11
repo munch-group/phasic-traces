@@ -1,0 +1,99 @@
+{
+  "version": "2.0",
+  "format": "ptd_pcg",
+  "computes": {
+    "coal_n5_theta1": {
+      "graph_hash": "4d652ed73c66ed4ada3dd13e0dde2051c151aa24be097bcd96c5bc04713be0f6",
+      "format_revision": 2,
+      "artifacts": {
+        "parent": {
+          "cid_or_path": "artifacts/4d652ed73c66ed4ada3dd13e0dde2051c151aa24be097bcd96c5bc04713be0f6.bin",
+          "sha256": "916b1614f5b1ad84deddb27ff3dbc13d288ec7f8e273d9bc25ab451bea382407",
+          "size_bytes": 5064
+        },
+        "scc": [
+          {
+            "cid_or_path": "artifacts/scc_6a6d87a7e303d7fb422f4eece14a59aa03a8cdaaaa5d374cd71096944a948486.bin",
+            "scc_hash": "6a6d87a7e303d7fb422f4eece14a59aa03a8cdaaaa5d374cd71096944a948486",
+            "sha256": "b487cef8fb806dd41404d448ebfd3a101543bd6fdee836d999d27c014f69d7ed",
+            "size_bytes": 8056
+          },
+          {
+            "cid_or_path": "artifacts/scc_ddc3218c9ae13954225efba2a3f16068214f18901364b150fb4bea51c9d4708a.bin",
+            "scc_hash": "ddc3218c9ae13954225efba2a3f16068214f18901364b150fb4bea51c9d4708a",
+            "sha256": "b8e9372a0aa80c28eb8d0329dbf7ec3a469f6c8a70c4c5d57e213891d5a0f9dc",
+            "size_bytes": 3744
+          },
+          {
+            "cid_or_path": "artifacts/scc_dc4737527ff38f1a4693a7495fe390945a2d266a3ac3c2926cf9c3d6f284aba7.bin",
+            "scc_hash": "dc4737527ff38f1a4693a7495fe390945a2d266a3ac3c2926cf9c3d6f284aba7",
+            "sha256": "1195c79b6d82f9df28067fa470535d5244b770e35dc675db71e9dd89f099ecfc",
+            "size_bytes": 5184
+          },
+          {
+            "cid_or_path": "artifacts/scc_f9e7f129fd385b3f7c45586a91d121d2009e6cf21f7928e18c798628a6991a1c.bin",
+            "scc_hash": "f9e7f129fd385b3f7c45586a91d121d2009e6cf21f7928e18c798628a6991a1c",
+            "sha256": "0aa8540abc166bddd777aa196a504093b421301abb52d17c60ad1edf87c203f1",
+            "size_bytes": 8056
+          },
+          {
+            "cid_or_path": "artifacts/scc_75bdc3a196d3f59533e643cd25eeb8e34f458ee1bcf0c769232f2fa755007a61.bin",
+            "scc_hash": "75bdc3a196d3f59533e643cd25eeb8e34f458ee1bcf0c769232f2fa755007a61",
+            "sha256": "9b1eeb59d542c7ac27b958c456e7a368e4fd0ad1107b366112d53a84ba4efc33",
+            "size_bytes": 3224
+          },
+          {
+            "cid_or_path": "artifacts/scc_dde94e4db261e4f084abff85bb1601eaea402a1a96c0582e310d2a16ac6096d8.bin",
+            "scc_hash": "dde94e4db261e4f084abff85bb1601eaea402a1a96c0582e310d2a16ac6096d8",
+            "sha256": "5f85d8ce35ee13badc9026610c259fe2ec369767e1f5df1843989bdc615c7d7b",
+            "size_bytes": 3224
+          },
+          {
+            "cid_or_path": "artifacts/scc_4a6301b792070eaa336c95ef91474a703b11af94f005bb858b1a7813452dfc90.bin",
+            "scc_hash": "4a6301b792070eaa336c95ef91474a703b11af94f005bb858b1a7813452dfc90",
+            "sha256": "0f6a5923803426424130db6d1fcf9ffac584ec080c9c4c0fa6b9c4cd33f0adc3",
+            "size_bytes": 2304
+          },
+          {
+            "cid_or_path": "artifacts/scc_33a4bb1ae7c1732921140f4a76ef62c107bf9af6edb7ad97b43654bfaa630ffd.bin",
+            "scc_hash": "33a4bb1ae7c1732921140f4a76ef62c107bf9af6edb7ad97b43654bfaa630ffd",
+            "sha256": "dad49e6d88f874abde921e66722dcd61e44ddd93d5496e0ea0578fb8e6e82251",
+            "size_bytes": 8056
+          },
+          {
+            "cid_or_path": "artifacts/scc_28081a8cab9fa59a9faa8714b371fd1b217742519e823aa678048315e33be210.bin",
+            "scc_hash": "28081a8cab9fa59a9faa8714b371fd1b217742519e823aa678048315e33be210",
+            "sha256": "993b3ead7c8a0c1ed657119835071a2161748334c5bb5c8a3e3967bd5eb9123a",
+            "size_bytes": 1784
+          },
+          {
+            "cid_or_path": "artifacts/scc_ac36eec0c31dbbc1ae3090cb7c2e23cafe5ba89ff4140ec80dcd22e0aa1d2dc2.bin",
+            "scc_hash": "ac36eec0c31dbbc1ae3090cb7c2e23cafe5ba89ff4140ec80dcd22e0aa1d2dc2",
+            "sha256": "90ccb848826daa942b3b92a9d2fbad479de94ef6b089dbe1941fc00a02c9801a",
+            "size_bytes": 8576
+          },
+          {
+            "cid_or_path": "artifacts/scc_1b431aacbfcd4e32ae36a443f4e82329f07707557f96e562314b358ff00807a6.bin",
+            "scc_hash": "1b431aacbfcd4e32ae36a443f4e82329f07707557f96e562314b358ff00807a6",
+            "sha256": "0f2d7a7e08200f8e24748401c175a0b5a136a2d090d2d7f34e13b0f832d59bff",
+            "size_bytes": 11312
+          }
+        ]
+      },
+      "metadata": {
+        "description": "Kingman coalescent for n=5 haploid samples (1 parameter)",
+        "author": "Kasper Munch <kaspermunch@birc.au.dk>",
+        "license": "MIT",
+        "vertices": 6,
+        "param_length": 1,
+        "domain": "population-genetics",
+        "model_type": "coalescent",
+        "tags": [
+          "coalescent",
+          "kingman",
+          "population-genetics"
+        ]
+      }
+    }
+  }
+}
